@@ -197,3 +197,8 @@ There are several channels where you can find help and support for QGIS:
 ## Get involved with the community
 
 [Contribution guidelines for this project](CONTRIBUTING.md)
+
+## 下载与交流
+
+- 华为应用市场：[AirGis](https://appgallery.huawei.com/app/detail?id=com.airgis.app)
+- 交流群：1105698553
