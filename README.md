@@ -1,3 +1,8 @@
+## 下载与交流
+
+- 华为应用市场：[AirGis](https://appgallery.huawei.com/app/detail?id=com.airgis.app)
+- 交流群：1105698553
+
 <img src="images/README-md/main_logo.png" width="300">
 
 [![🧪 QGIS tests](https://github.com/qgis/QGIS/actions/workflows/run-tests.yml/badge.svg)](https://github.com/qgis/QGIS/actions/workflows/run-tests.yml?query=branch%3Amaster+event%3Apush)
@@ -197,8 +202,3 @@ There are several channels where you can find help and support for QGIS:
 ## Get involved with the community
 
 [Contribution guidelines for this project](CONTRIBUTING.md)
-
-## 下载与交流
-
-- 华为应用市场：[AirGis](https://appgallery.huawei.com/app/detail?id=com.airgis.app)
-- 交流群：1105698553
